@@ -5,7 +5,9 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
+                <a href='../assests/2110990614-Himanshu.pdf' download='Himanshu_resume.pdf'>
                     Himanshu.dev
+                </a>
             </div>
             <ul className="nav-links">
                 <li><a href="#about">About</a></li>
