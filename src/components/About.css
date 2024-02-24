@@ -68,6 +68,9 @@
     .container2{
         margin-bottom: 4rem;
     }
+    .about-me-head2{
+        text-align: center;
+    }
 }
 @media only screen and (max-width: 530px) {
     .about-me{
