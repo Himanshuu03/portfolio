@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
-                <a href='../assests/2110990614-Himanshu.pdf' download='Himanshu_resume.pdf'>
+                <a href="/2110990614-Himanshu.pdf" download="Himanshu_resume.pdf">
                     Himanshu.dev
                 </a>
             </div>
