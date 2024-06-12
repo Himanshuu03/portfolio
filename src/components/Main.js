@@ -20,7 +20,9 @@ function Main() {
                     <p>Developer based in Haryana,India. 📍</p>
                 </div>
                 <div>
-                   <FaLinkedin className='link'/> <FaGithub className='link'/>
+                   <a href='https://github.com/himanshuu03'>
+                    <FaGithub className='link'/>
+                   </a>
                 </div>
             </div>
             <div className='photo'>

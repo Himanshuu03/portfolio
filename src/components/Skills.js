@@ -13,7 +13,7 @@ function Skills() {
         <h2>TECH STACK</h2>
       </div>
       <div className='skillsection'>
-        <div>
+        <div className='skillls'>
           <h3>Frontend</h3>
           <div className='skillsection-1'>
             <div className='slink' data-tip='HTML5'><FaHtml5 /></div>
@@ -26,7 +26,7 @@ function Skills() {
             <div className='slink' data-tip='Tailwind CSS'><SiTailwindcss /></div>
           </div>
         </div>
-        <div>
+        <div className='skillls'>
           <h3>Backend</h3>
           <div className='skillsection-1'>
             <div className='slink' data-tip='Node.js'><FaNodeJs /></div>
